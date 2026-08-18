@@ -1,5 +1,5 @@
 {
-  "flag1_dialogshow": false,
+  "flag1_dialogshow": true,
   "flag2_blockapp": false,
   "dialog_title": "Hello,",
   "dialog_decription": "Due to technical problems, some features might not work correctly.\nWe are working on the issues and sincerely apologize for any inconvenience.\n\nPlanBoards team"
